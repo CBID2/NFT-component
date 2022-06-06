@@ -7,4 +7,5 @@ body{
     font-family: Outfit, sans-serif;
     background: hsl(217, 54%, 11%);
     justify-content: center;
+    align-items: center;
 }
