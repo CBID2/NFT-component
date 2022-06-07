@@ -12,7 +12,7 @@
 
     /* ### Neutral */
     --main-bg: hsl(217, 54%, 11%);
-    --card bg: hsl(216, 50%, 16%);
+    --card-bg: hsl(216, 50%, 16%); 
     --line: hsl(215, 32%, 27%);
     --white: hsl(0, 0%, 100%); 
  }
@@ -21,7 +21,41 @@
      max-width: 100%;
  }
 
- 
+ ul{
+     list-style-type: none;
+ }
+p{
+    font-weight: 300;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    background-color: var(--main-bg);
+    color: hsl(0, 0%, 100%, 60%);
+    padding: 1.25rem;
+}
+
+.container{
+    padding: 1.25rem;
+    background-color: var(--main-bg);  
+   border-radius: 1rem;
+   margin-bottom: 1rem;
+}
+
+.container .main-image{
+    position: relative;
+}
+
+.container.main-image div{
+    position: absolute;
+    top: 0%;
+    background-color: hsl(178, 100%, 50%, 65%);
+    width: 100%;
+
+
+}
+
 
      
  
