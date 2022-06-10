@@ -1,7 +1,7 @@
  .card {
     box-shadow: 0 4px 8px 0 rgba(216, 50%, 16%);
     transition: 0.3s;
-    border-radius: 5px; 
+    border-radius: 5px; /*5px rounded corners */
  }
      
 .diamond img {
