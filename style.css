@@ -1,5 +1,5 @@
  .card {
-    box-shadow: 0 4px 8px 0 darkblue;
+    background: darkblue;
     transition: 0.3s;
     border-radius: 5px; /*5px rounded corners */
  }
@@ -8,4 +8,5 @@
      border-radius: 5px 5px 0 0;
  }
  
+
 
