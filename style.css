@@ -1,5 +1,8 @@
+ #root{
+   background-color:  hsl(217, 54%, 11%);
+ }
  .card {
-    background: darkblue;
+    background: hsl(216, 50%, 16%);
     transition: 0.3s;
     border-radius: 5px; /*5px rounded corners */
  }
@@ -8,8 +11,4 @@
      border-radius: 5px 5px 0 0;
  }
  
-.slogan {
-   background: #000;
-   color: #fff;
-}
 
