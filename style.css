@@ -4,7 +4,7 @@
  .card {
     background: hsl(216, 50%, 16%);
     transition: 0.3s;
-    border-radius: 5px; /*5px rounded corners */
+    border-radius: 12px; /*12px rounded corners */
     width: 500px;
     height: 600px;
  }
@@ -14,4 +14,6 @@
      width: 300px;
  }
  
-
+.diamond img {
+width: 50px;
+}
