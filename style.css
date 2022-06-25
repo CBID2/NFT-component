@@ -32,6 +32,15 @@
 .card-content img {
 width: 15px;
 }
+
+.eq:hover {
+cursor: pointer;
+}
+
+.main-photo-overlay {
+
+}
+
 .card-content .deadline{
    margin-left: 110px;
 }
@@ -60,7 +69,7 @@ color: hsl(178, 100%, 50%);
 }
 
 .card-shadow{
-   background: hsl(217, 56%, 8%);
+   background: hsl(216, 56%, 11%);
    padding: 20px;
    width: 375px;
 }
