@@ -1,5 +1,6 @@
  #root{
    background-color:  hsl(217, 54%, 11%);
+   padding: 20px;
  }
  .card {
     background: hsl(216, 50%, 16%);
@@ -33,4 +34,19 @@ hr{
 }
 body{
    font-family: 'Outfit', sans-serif;
+}
+
+h2, .name{
+   color: hsl(0, 0%, 100%);
+}
+.text{
+   color: hsl(215, 51%, 70%);
+}
+ .diamond-info{
+color: hsl(178, 100%, 50%);
+}
+
+.card-shadow{
+   background: hsl(217, 54%, 11%);
+   padding: 20px;
 }
