@@ -49,4 +49,9 @@ color: hsl(178, 100%, 50%);
 .card-shadow{
    background: hsl(217, 54%, 11%);
    padding: 20px;
+   width: 375px;
+}
+
+.container {
+   text-align: center;
 }
