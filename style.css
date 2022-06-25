@@ -31,3 +31,6 @@ width: 35px;
 hr{
    border-color: hsl(215, 32%, 27%);
 }
+body{
+   font-family: 'Outfit', sans-serif;
+}
