@@ -29,5 +29,5 @@ width: 35px;
    margin-top: 30px;
 }
 hr{
-   color: hsl(215, 32%, 27%);
+   border-color: hsl(215, 32%, 27%);
 }
