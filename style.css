@@ -46,13 +46,13 @@ position: absolute;
   height: 100%;
   width: 100%;
   opacity: 0;
-  transition: .5s ease;
+  transition: 0.5s ease;
   background-color: hsl(178, 100%, 50%);
 }
 
 .main-photo-overlay:hover {
   opacity: 1;
-  transition: 0 .5s;
+  transition: 0 0.5s;
 }
 
 .card-content .deadline{
@@ -81,7 +81,9 @@ h2, .name{
  .diamond-info{
 color: hsl(178, 100%, 50%);
 }
-
+.text{
+   color: hsl(178, 100%, 50%);
+}
 .card-shadow{
    background: hsl(216, 56%, 11%);
    padding: 20px;
