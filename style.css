@@ -36,7 +36,9 @@ width: 15px;
 .eq:hover {
 cursor: pointer;
 }
-
+.overlay-main{
+   position: relative;
+}
 .main-photo-overlay {
 position: absolute;
   top: 0;
