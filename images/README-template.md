@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![NFT Preview Card ]()
+![NFT Preview Card ](https://user-images.githubusercontent.com/105683440/179420115-a251fbda-5a8c-4bb0-ba9b-d044dc5be72c.png)
  
 ### Links
 
