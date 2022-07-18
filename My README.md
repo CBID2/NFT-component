@@ -68,8 +68,8 @@ For future projects, I would to improve on creating containers with the <div> ta
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [How To Create an Overlay Image Icon](https://www.w3schools.com/howto/howto_css_image_overlay_icon.asp) - This helped me create the hover effect. I love this pattern and will definitely use it again in the future. 
+- [How To-Cards](https:https://www.w3schools.com/howto/howto_css_product_card.asp) - This article helped me finally understand how to create a card container. I'd recommend it to anyone struggle to create this component.
 
 
 
@@ -77,11 +77,11 @@ For future projects, I would to improve on creating containers with the <div> ta
 
 - Linkedin - [Christine Belzie](https://www.linkedin.com/in/christinebelzie)
 - Frontend Mentor - [@CBID2](https://www.frontendmentor.io/profile/@CBID2)
-- 
+  
 
 
 ## Acknowledgments
 
--Github
+- Website- [Ashelle Cancio](https://www.arcan9.dev/). This person taught me how to postion my footer and use some semantic HTML elements effectively.
+- Website- [Thalita Geerinck] (https://thalita.dev/). This person help me gain a better understanding of how to improve the hover effect. 
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
